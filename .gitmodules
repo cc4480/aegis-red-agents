@@ -1,0 +1,3 @@
+[submodule "runtime/secscan-redteam-desktop"]
+	path = runtime/secscan-redteam-desktop
+	url = https://github.com/cc4480/secscan-redteam-desktop.git
