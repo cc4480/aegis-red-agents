@@ -2,6 +2,9 @@
 
 Operator-grade autonomous red-team platform.
 
+All platform agents operate under the standing protocols in
+`PROTOCOL.md` — they are binding, not advisory.
+
 ## Architecture
 
 The platform lives in **this repo**: Ops Console evolution, the provider
